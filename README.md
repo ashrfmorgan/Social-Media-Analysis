@@ -36,7 +36,7 @@ An in-depth data analysis project focused on analyzing social media data to extr
 # Brief
 This project focuses on analyzing social media data to provide actionable insights for businesses, influencers, and marketers. By leveraging interactive dashboards, the project helps optimize social media strategies, drive audience engagement, and enable data-driven decision-making. This initiative was developed as part of the DEPI Data Engineering Track, ranking in the top 20 participating teams.
 
-# How It Works
+# HowItWorks
 1. **Data Loading and Preparation**:  
    The script starts by loading multiple
    `PostDimension.csv`, `UserDimension.csv`, and `SentimentFact.csv`, using Pandas. The data is cleaned, merged, and saved into a unified dataset (`sentiment_factDEPI.csv`) for streamlined analysis.
