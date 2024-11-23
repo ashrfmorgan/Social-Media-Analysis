@@ -15,7 +15,7 @@ An in-depth data analysis project focused on analyzing social media data to extr
 * [Key_Findings](#Key_Findings)  
 * [Key_Recommendations](#Key_Recommendations)
 * [Acknowledgments](#Acknowledgments)  
-* [Future_Work](#Futur_eWork)  
+* [Future_Work](#Future_Work)  
 
 
 
