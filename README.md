@@ -5,7 +5,7 @@ An in-depth data analysis project focused on analyzing social media data to extr
 
 * [Contributors](#Contributors) 
 * [Brief](#Brief)
-* [How It Works](#HowItWorks)
+* [How It Works](#[How It Works])
 * [DataSet](#DataSet)
 * [Project Goal](#ProjectGoal)
 * [Our Team](#OurTeam)
