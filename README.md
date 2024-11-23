@@ -59,12 +59,12 @@ This project focuses on analyzing social media data to provide actionable insigh
 # DataSet
 - The dataset used in this project is the [Social Media Sentiments Analysis Dataset](https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset/data)  from Kaggle
   
-# Project Goals
+# Project_Goals
 - Extract insights from social media data across multiple platforms
 - Provide key metrics and trends in an interactive Power BI dashboard
 - Empower data-driven strategies for audience targeting and engagement
 
-# Our Role
+# Our_Team
 * [Amr Khaled](https://www.linkedin.com/in/amr-khaled03/) (Data Collecting and Preprocessing) 
 * [Mahmoud Osama](https://www.linkedin.com/in/mahmoud-osama-78aaab260/) (EDA)
 * [Ashraf Morgan](https://www.linkedin.com/in/ashrf-morgan-2a6909254/)
@@ -73,7 +73,7 @@ This project focuses on analyzing social media data to provide actionable insigh
 * [Ibrahim Hegazi](https://www.linkedin.com/in/ibrahim-hegazi-9ba3a5269/) (Data Visualization) 
 * [Yousef Alsebaey](https://www.linkedin.com/in/yousef-alsebaey-741ba9114/) (Project Insights, Story Telling)
 
-# Tech Stack
+# Tech_Stack
 - **Python**: EDA
 - **Power Query**: Data cleaning
 - **Power BI**: Data visualization
@@ -90,17 +90,17 @@ IV. matplotlib
 
 V. seaborn
 
-# Key Achievements
+# Key_Achievements
 - Developed dynamic dashboards with insights for companies and influencers
 - Optimized database schema for efficient querying
 - Conducted extensive EDA to reveal sentiment patterns
 - Analyzed data across 5 social media platforms
 
-# Key Findings
+# Key_Findings
 - Best cities for targeted content marketing
 - Best platforms for higher reach and positive feedback
 
-# Key Recommendations
+# Key_Recommendations
 - Target high-engagement platforms (e.g., Snapchat, TikTok)
 - Engage influencers from Tokyo, New York, and Cairo
 - Launch campaigns from May to July
@@ -128,6 +128,6 @@ V. seaborn
   
 - Your support and encouragement were instrumental in the successful completion of this project.
 
-## Future Work
+## Future_Work
 - Acquire datasets with follow/unfollow dates and engagement times
 - Incorporate AI to optimize posting times for better engagement
