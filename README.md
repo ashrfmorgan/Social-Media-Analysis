@@ -7,15 +7,15 @@ An in-depth data analysis project focused on analyzing social media data to extr
 * [Brief](#Brief)
 * [How_It_Works](#How_It_Works)
 * [DataSet](#DataSet)
-* [Project Goal](#ProjectGoal)
-* [Our Team](#OurTeam)
-* [Tech Stack](#TechStack)
+* [Project_Goal](#Project_Goal)
+* [Our_Team](#Our_Team)
+* [Tech_Stack](#Tech_Stack)
 * [Tools](#Tools)  
-* [Key Achievements](#KeyAchievements)  
-* [Key Findings](#KeyFindings)  
-* [Key Recommendations](#KeyRecommendations)
+* [Key_Achievements](#Key_Achievements)  
+* [Key_Findings](#Key_Findings)  
+* [Key_Recommendations](#Key_Recommendations)
 * [Acknowledgments](#Acknowledgments)  
-* [Future Work](#FutureWork)  
+* [Future_Work](#Futur_eWork)  
 
 
 
